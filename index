@@ -542,7 +542,7 @@
     
     <script>
       <script>
-    const scriptURL = "https://script.google.com/macros/s/AKfycbzjZpYapkT9vj5rFQOzFDH2I5uz09EFlx0dYrQ6Sh2ch052BQniL-o1ykTuQ26v3bg8/exec"; // החלף כאן
+    const scriptURL = "https://script.google.com/macros/s/AKfycbyD-TenEPnEJ15GFy91atAQXeKEBvOxyWS4Q0rX2BO4CHidv5LN3KBtQm7OVCn2cps/exec"; // החלף כאן
 
     function getData() {
       fetch(scriptURL, {
