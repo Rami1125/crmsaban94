@@ -139,7 +139,7 @@
         }
     </style>
 </head>
-   <?!= include('Style'); ?>
+   <?!= include('output'); ?>
 <body class="bg-gray-50 min-h-screen">
     <!-- Login Screen -->
     <div id="loginScreen" class="fixed inset-0 z-50 login-gradient flex items-center justify-center p-4">
